@@ -1,0 +1,65 @@
+{
+    "Marienoko": {
+        "checkpoints": [
+            {
+                "steps": 279238,
+                "file_path": "results\\test1209-1\\Marienoko\\Marienoko-279238.onnx",
+                "reward": 1.17298385192608,
+                "creation_time": 1704799854.2828357,
+                "auxillary_file_paths": [
+                    "results\\test1209-1\\Marienoko\\Marienoko-279238.pt"
+                ]
+            },
+            {
+                "steps": 367532,
+                "file_path": "results\\test1209-1\\Marienoko\\Marienoko-367532.onnx",
+                "reward": 1.915756717324257,
+                "creation_time": 1704802268.9063904,
+                "auxillary_file_paths": [
+                    "results\\test1209-1\\Marienoko\\Marienoko-367532.pt"
+                ]
+            },
+            {
+                "steps": 468892,
+                "file_path": "results\\test1209-1\\Marienoko\\Marienoko-468892.onnx",
+                "reward": 0.6666666666666666,
+                "creation_time": 1704805348.9491959,
+                "auxillary_file_paths": [
+                    "results\\test1209-1\\Marienoko\\Marienoko-468892.pt"
+                ]
+            },
+            {
+                "steps": 499999,
+                "file_path": "results\\test1209-1\\Marienoko\\Marienoko-499999.onnx",
+                "reward": 1.9320117738511828,
+                "creation_time": 1704807128.49168,
+                "auxillary_file_paths": [
+                    "results\\test1209-1\\Marienoko\\Marienoko-499999.pt"
+                ]
+            },
+            {
+                "steps": 558707,
+                "file_path": "results\\test1209-1\\Marienoko\\Marienoko-558707.onnx",
+                "reward": 4.237924176454544,
+                "creation_time": 1704808830.1612315,
+                "auxillary_file_paths": [
+                    "results\\test1209-1\\Marienoko\\Marienoko-558707.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 558707,
+            "file_path": "results\\test1209-1\\Marienoko.onnx",
+            "reward": 4.237924176454544,
+            "creation_time": 1704808830.1612315,
+            "auxillary_file_paths": [
+                "results\\test1209-1\\Marienoko\\Marienoko-558707.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1"
+    }
+}

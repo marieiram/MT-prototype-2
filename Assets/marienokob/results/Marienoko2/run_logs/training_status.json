@@ -1,0 +1,38 @@
+{
+    "Marienoko": {
+        "checkpoints": [
+            {
+                "steps": 11143,
+                "file_path": "results/Marienoko2/Marienoko/Marienoko-11143.onnx",
+                "reward": 0.5,
+                "creation_time": 1702925948.533393,
+                "auxillary_file_paths": [
+                    "results/Marienoko2/Marienoko/Marienoko-11143.pt"
+                ]
+            },
+            {
+                "steps": 17668,
+                "file_path": "results/Marienoko2/Marienoko/Marienoko-17668.onnx",
+                "reward": 0.5,
+                "creation_time": 1702926228.89523,
+                "auxillary_file_paths": [
+                    "results/Marienoko2/Marienoko/Marienoko-17668.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 17668,
+            "file_path": "results/Marienoko2/Marienoko.onnx",
+            "reward": 0.5,
+            "creation_time": 1702926228.89523,
+            "auxillary_file_paths": [
+                "results/Marienoko2/Marienoko/Marienoko-17668.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.2"
+    }
+}

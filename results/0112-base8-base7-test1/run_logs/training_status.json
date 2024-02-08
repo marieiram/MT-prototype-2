@@ -1,0 +1,56 @@
+{
+    "Marienoko": {
+        "checkpoints": [
+            {
+                "steps": 98363,
+                "file_path": "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-98363.onnx",
+                "reward": 6.858197653735125,
+                "creation_time": 1705038461.272627,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-98363.pt"
+                ]
+            },
+            {
+                "steps": 106869,
+                "file_path": "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-106869.onnx",
+                "reward": 6.375996875762939,
+                "creation_time": 1705040379.3048782,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-106869.pt"
+                ]
+            },
+            {
+                "steps": 146713,
+                "file_path": "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-146713.onnx",
+                "reward": 7.4111073811848955,
+                "creation_time": 1705041778.348128,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-146713.pt"
+                ]
+            },
+            {
+                "steps": 153797,
+                "file_path": "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-153797.onnx",
+                "reward": 6.517238172991522,
+                "creation_time": 1705042173.5193174,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-153797.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 153797,
+            "file_path": "results\\0112-base8-base7-test1\\Marienoko.onnx",
+            "reward": 6.517238172991522,
+            "creation_time": 1705042173.5193174,
+            "auxillary_file_paths": [
+                "results\\0112-base8-base7-test1\\Marienoko\\Marienoko-153797.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1"
+    }
+}

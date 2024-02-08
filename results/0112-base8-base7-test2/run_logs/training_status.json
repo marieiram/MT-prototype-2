@@ -1,0 +1,38 @@
+{
+    "Marienoko": {
+        "checkpoints": [
+            {
+                "steps": 309,
+                "file_path": "results\\0112-base8-base7-test2\\Marienoko\\Marienoko-309.onnx",
+                "reward": 43.45722207568941,
+                "creation_time": 1705042814.5146697,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test2\\Marienoko\\Marienoko-309.pt"
+                ]
+            },
+            {
+                "steps": 104997,
+                "file_path": "results\\0112-base8-base7-test2\\Marienoko\\Marienoko-104997.onnx",
+                "reward": 6.848272463371014,
+                "creation_time": 1705045766.6239884,
+                "auxillary_file_paths": [
+                    "results\\0112-base8-base7-test2\\Marienoko\\Marienoko-104997.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 104997,
+            "file_path": "results\\0112-base8-base7-test2\\Marienoko.onnx",
+            "reward": 6.848272463371014,
+            "creation_time": 1705045766.6239884,
+            "auxillary_file_paths": [
+                "results\\0112-base8-base7-test2\\Marienoko\\Marienoko-104997.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1"
+    }
+}
